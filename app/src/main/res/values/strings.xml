@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuestBank Admin</string>
+    <string-array name="class_arr">
+        <item>SSLC</item>
+    </string-array>
+    <string-array name="board_arr">
+        <item>Kerala</item>
+    </string-array>
+    <string-array name="medium_arr">
+        <item>English</item>
+        <item>Malayalam</item>
+    </string-array>
+    <string-array name="subject_arr">
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Biology</item>
+        <item>Maths</item>
+        <item>IT</item>
+        <item>Social Science</item>
+        <item>English</item>
+        <item>Malayalam</item>
+        <item>Hindi</item>
+        <item>Arabic</item>
+        <item>Urudu</item>
+        <item>Sanskrit</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
